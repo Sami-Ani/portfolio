@@ -26,6 +26,7 @@ function Home() {
           Download My CV
         </a>
       </div>
+
       <div className="avatar">
         <div className="card">
           <img src={avatar} alt="" />
